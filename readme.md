@@ -18,3 +18,10 @@ Steps:
     team has an ID
     ID is private
     view automatically displays new team
+    
+    
+The final requirements are:
+  1. Display a table with a list of teams that re-renders when a new team is added
+  2. When I click on a team, show the top three players with the most points
+  3. When I click on a player, show a dropdown of that players info (hometown, points, year of birth)
+  4. Add the ability to delete a player (with an x button next to their name)
